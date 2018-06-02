@@ -1,0 +1,9 @@
+E:\Рабочий стол\VisualStudio\Game15\Game15\bin\Debug\Game15.exe
+E:\Рабочий стол\VisualStudio\Game15\Game15\bin\Debug\Game15.pdb
+E:\Рабочий стол\VisualStudio\Game15\Game15\obj\Debug\Game15.csprojResolveAssemblyReference.cache
+E:\Рабочий стол\VisualStudio\Game15\Game15\obj\Debug\Game15.FormGame15.resources
+E:\Рабочий стол\VisualStudio\Game15\Game15\obj\Debug\Game15.Properties.Resources.resources
+E:\Рабочий стол\VisualStudio\Game15\Game15\obj\Debug\Game15.csproj.GenerateResource.Cache
+E:\Рабочий стол\VisualStudio\Game15\Game15\obj\Debug\Game15.csproj.CoreCompileInputs.cache
+E:\Рабочий стол\VisualStudio\Game15\Game15\obj\Debug\Game15.exe
+E:\Рабочий стол\VisualStudio\Game15\Game15\obj\Debug\Game15.pdb
